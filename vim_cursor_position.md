@@ -4,17 +4,19 @@ To display the grid like feature in vi editor use the below commands in vi edito
 
 1. open vi editor
 2. In view mode(press ESC) and enter 
-   :set cursorline - to display the corresponding cursor position in line
-   :set cursorcolumn - to display the corresponding cursor postion as column.
+
+   ```:set cursorline - to display the corresponding cursor position in line```
+   
+   ```:set cursorcolumn - to display the corresponding cursor postion as column.```
    
  
  # Colour Scheme
  
  To view the different colours for vim editor. 
  
- ls –lrt /usr/share/vim/vim*/colors
+ ```ls –lrt /usr/share/vim/vim*/colors```
  
- /usr/share/vim/vim74/colors:
+ ```/usr/share/vim/vim74/colors:
 total 72
 -rw-r--r--. 1 root root 1840 Aug  9  2019 zellner.vim
 -rw-r--r--. 1 root root 1629 Aug  9  2019 torte.vim
@@ -34,10 +36,12 @@ total 72
 -rw-r--r--. 1 root root  548 Aug  9  2019 default.vim
 -rw-r--r--. 1 root root 2990 Aug  9  2019 darkblue.vim
 -rw-r--r--. 1 root root 2476 Aug  9  2019 blue.vim
+```
 
 In the vim editor, to set the colour scheme, just issue the below command
 
 :colorscheme delek
+
 i.e. :colorscheme <colourname>
 
  
