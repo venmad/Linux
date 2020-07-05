@@ -5,9 +5,9 @@ To display the grid like feature in vi editor use the below commands in vi edito
 1. open vi editor
 2. In view mode(press ESC) and enter 
 
-   ```:set cursorline - to display the corresponding cursor position in line```
+   ```:set cursorline - to highlight curent line```
    
-   ```:set cursorcolumn - to display the corresponding cursor postion as column.```
+   ```:set cursorcolumn - to highlight current column.```
    
  
  # Colour Scheme
