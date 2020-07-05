@@ -40,8 +40,12 @@ total 72
 
 In the vim editor, to set the colour scheme, just issue the below command
 
-:colorscheme delek
+```:colorscheme delek```
 
-i.e. :colorscheme <colourname>
+i.e. :colorscheme colourname
+
+<b>References:</b>
+
+* [Colour_scheme](https://alvinalexander.com/linux/vi-vim-editor-color-scheme-colorscheme/)
 
  
